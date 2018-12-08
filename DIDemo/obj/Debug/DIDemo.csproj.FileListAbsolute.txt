@@ -1,0 +1,12 @@
+C:\Users\barnau\source\repos\DIDemo\DIDemo\bin\Debug\DIDemo.exe.config
+C:\Users\barnau\source\repos\DIDemo\DIDemo\bin\Debug\DIDemo.exe
+C:\Users\barnau\source\repos\DIDemo\DIDemo\bin\Debug\DIDemo.pdb
+C:\Users\barnau\source\repos\DIDemo\DIDemo\bin\Debug\Autofac.dll
+C:\Users\barnau\source\repos\DIDemo\DIDemo\bin\Debug\DemoLibrary.dll
+C:\Users\barnau\source\repos\DIDemo\DIDemo\bin\Debug\DemoLibrary.pdb
+C:\Users\barnau\source\repos\DIDemo\DIDemo\bin\Debug\Autofac.xml
+C:\Users\barnau\source\repos\DIDemo\DIDemo\obj\Debug\DIDemo.csprojAssemblyReference.cache
+C:\Users\barnau\source\repos\DIDemo\DIDemo\obj\Debug\DIDemo.csproj.CoreCompileInputs.cache
+C:\Users\barnau\source\repos\DIDemo\DIDemo\obj\Debug\DIDemo.csproj.CopyComplete
+C:\Users\barnau\source\repos\DIDemo\DIDemo\obj\Debug\DIDemo.exe
+C:\Users\barnau\source\repos\DIDemo\DIDemo\obj\Debug\DIDemo.pdb

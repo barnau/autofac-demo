@@ -1,0 +1,6 @@
+C:\Users\barnau\source\repos\DIDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\barnau\source\repos\DIDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\barnau\source\repos\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\barnau\source\repos\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\barnau\source\repos\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\barnau\source\repos\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
